@@ -1,0 +1,3 @@
+﻿  OpenCVTesting.cpp
+c:\users\rory\source\repos\opencvtesting\opencvtesting\opencvtesting.cpp(69): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  OpenCVTesting.vcxproj -> C:\Users\Rory\source\repos\OpenCVTesting\x64\Debug\OpenCVTesting.exe
